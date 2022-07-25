@@ -1,7 +1,7 @@
 name = "lapce-adwaita"
 display-name = "Adwaita"
 description = "Lapce adaptation of the Adwaita color scheme"
-version = "0.1.0"
+version = "0.1.1"
 author = "Kirottu"
 repository = "Kirottu/lapce-adwaita"
 themes = ["adwaita-dark.toml"]
